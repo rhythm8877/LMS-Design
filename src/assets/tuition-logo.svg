@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#6C5CE7" d="M40 10c16.569 0 30 13.431 30 30 0 16.569-13.431 30-30 30-16.569 0-30-13.431-30-30C10 23.431 23.431 10 40 10z"/>
+    <path fill="#FFF" d="M33.5 25h13a2.5 2.5 0 010 5h-13a2.5 2.5 0 010-5zM25 38h30a3 3 0 010 6H25a3 3 0 010-6zM30 50h20a2 2 0 010 4H30a2 2 0 010-4z"/>
+    <text 
+      x="95" 
+      y="40" 
+      font-family="'Segoe UI', Tahoma, sans-serif" 
+      font-size="24" 
+      font-weight="bold" 
+      fill="#333">
+      Tuition
+    </text>
+  </g>
+</svg> 

@@ -1,0 +1,98 @@
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30px;
+  background-color: #fff;
+  height: 70px;
+  position: fixed;
+  top: 0;
+  left: 225px;
+  right: 0;
+  z-index: 90;
+  border-bottom: 1px solid #f0f0f0;
+  width: calc(100% - 225px);
+}
+
+.topbar-logo {
+  font-size: 22px;
+  font-weight: 600;
+  color: #333;
+}
+
+.topbar-right {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.notification-icon {
+  color: #717171;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chat-icon {
+  color: #717171;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+  object-fit: cover;
+}
+
+.username {
+  font-weight: 500;
+  color: #333;
+  margin-right: 5px;
+}
+
+.dropdown-icon {
+  color: #717171;
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .topbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 12px 20px;
+    justify-content: center;
+  }
+  
+  .topbar-logo {
+    display: none;
+  }
+  
+  .notification-icon,
+  .chat-icon {
+    display: none;
+  }
+  
+  .username {
+    font-size: 14px;
+  }
+  
+  .avatar {
+    width: 32px;
+    height: 32px;
+  }
+} 

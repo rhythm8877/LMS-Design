@@ -1,27 +1,44 @@
 import React, { Component } from 'react';
-import dummyLogo from '../../assets/tuition-logo.svg';
-import '../../styles/Sidebar.css';
+import dummyLogo from '../../../assets/tuition-logo.svg';
+import './Sidebar.css';
 
 class Sidebar extends Component {
   constructor(props) {
     super(props);
+    
+    // Get the current page from localStorage or default to Dashboard
+    const savedPage = localStorage.getItem('currentPage') || 'Dashboard';
+    
     this.state = {
-      activeItem: 'Dashboard',
+      activeItem: savedPage,
       isOpen: false,
       navItems: [
         { id: 1, name: 'Dashboard', icon: '⊞' },
-        { id: 2, name: 'Courses', icon: '📚' },
-        { id: 3, name: 'Chapter', icon: '📄' },
-        { id: 4, name: 'Help', icon: '❓' },
-        { id: 5, name: 'Setting', icon: '⚙️' },
-        { id: 6, name: 'FAQ', icon: '💬' },
-        { id: 7, name: 'Logout', icon: '↩️' },
+        { id: 2, name: 'ID Card', icon: '🪪' },
+        { id: 3, name: 'Courses', icon: '📚' },
+        { id: 4, name: 'Chapter', icon: '📄' },
+        { id: 5, name: 'Help', icon: '❓' },
+        { id: 6, name: 'Setting', icon: '⚙️' },
+        { id: 7, name: 'FAQ', icon: '💬' },
+        { id: 8, name: 'Logout', icon: '↩️' },
       ]
     };
   }
 
+  componentDidUpdate(prevProps) {
+    // If the App's currentPage changes, update the sidebar's activeItem
+    if (this.props.currentPage && this.props.currentPage !== this.state.activeItem) {
+      this.setState({ activeItem: this.props.currentPage });
+    }
+  }
+
   handleNavClick = (name) => {
     this.setState({ activeItem: name });
+    
+    // Call the onNavigate prop if provided
+    if (this.props.onNavigate) {
+      this.props.onNavigate(name);
+    }
   }
 
   toggleSidebar = () => {

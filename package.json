@@ -10,8 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "compressorjs": "^1.2.1",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.1",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-image-crop": "^11.0.10",
+    "react-select": "^5.10.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",

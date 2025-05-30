@@ -1,4 +1,4 @@
-.topbar {
+.navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -14,27 +14,19 @@
   width: calc(100% - 225px);
 }
 
-.topbar-logo {
+.navbar-logo {
   font-size: 22px;
   font-weight: 600;
   color: #333;
 }
 
-.topbar-right {
+.navbar-right {
   display: flex;
   align-items: center;
   gap: 20px;
 }
 
 .notification-icon {
-  color: #717171;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.chat-icon {
   color: #717171;
   cursor: pointer;
   display: flex;
@@ -69,7 +61,7 @@
 }
 
 @media (max-width: 768px) {
-  .topbar {
+  .navbar {
     position: fixed;
     top: 0;
     left: 0;
@@ -78,7 +70,7 @@
     justify-content: center;
   }
   
-  .topbar-logo {
+  .navbar-logo {
     display: none;
   }
   

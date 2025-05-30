@@ -1,0 +1,3604 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "fullName": "Aarav Sharma",
+      "class": 1,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rajesh Sharma",
+      "parentPhoneNumber": "+91 9876543201",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 2,
+      "fullName": "Vivaan Patel",
+      "class": 1,
+      "section": "A",
+      "stream": null,
+      "parentName": "Suresh Patel",
+      "parentPhoneNumber": "+91 9876543202",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 3,
+      "fullName": "Aditya Singh",
+      "class": 1,
+      "section": "A",
+      "stream": null,
+      "parentName": "Ramesh Singh",
+      "parentPhoneNumber": "+91 9876543203",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 4,
+      "fullName": "Vihaan Kumar",
+      "class": 1,
+      "section": "A",
+      "stream": null,
+      "parentName": "Mahesh Kumar",
+      "parentPhoneNumber": "+91 9876543204",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 5,
+      "fullName": "Arjun Gupta",
+      "class": 1,
+      "section": "A",
+      "stream": null,
+      "parentName": "Dinesh Gupta",
+      "parentPhoneNumber": "+91 9876543205",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 6,
+      "fullName": "Reyansh Mehta",
+      "class": 1,
+      "section": "A",
+      "stream": null,
+      "parentName": "Sanjay Mehta",
+      "parentPhoneNumber": "+91 9876543206",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 7,
+      "fullName": "Ayaan Joshi",
+      "class": 1,
+      "section": "A",
+      "stream": null,
+      "parentName": "Vijay Joshi",
+      "parentPhoneNumber": "+91 9876543207",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 8,
+      "fullName": "Divya Shah",
+      "class": 1,
+      "section": "A",
+      "stream": null,
+      "parentName": "Ajay Shah",
+      "parentPhoneNumber": "+91 9876543208",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 9,
+      "fullName": "Neha Verma",
+      "class": 1,
+      "section": "A",
+      "stream": null,
+      "parentName": "Amit Verma",
+      "parentPhoneNumber": "+91 9876543209",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 10,
+      "fullName": "Ananya Mishra",
+      "class": 1,
+      "section": "A",
+      "stream": null,
+      "parentName": "Sunita Mishra",
+      "parentPhoneNumber": "+91 9876543210",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 11,
+      "fullName": "Diya Agarwal",
+      "class": 1,
+      "section": "B",
+      "stream": null,
+      "parentName": "Anita Agarwal",
+      "parentPhoneNumber": "+91 9876543211",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 12,
+      "fullName": "Aditi Reddy",
+      "class": 1,
+      "section": "B",
+      "stream": null,
+      "parentName": "Kavita Reddy",
+      "parentPhoneNumber": "+91 9876543212",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 13,
+      "fullName": "Ishaan Nair",
+      "class": 1,
+      "section": "B",
+      "stream": null,
+      "parentName": "Savita Nair",
+      "parentPhoneNumber": "+91 9876543213",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 14,
+      "fullName": "Kabir Rao",
+      "class": 1,
+      "section": "B",
+      "stream": null,
+      "parentName": "Namita Rao",
+      "parentPhoneNumber": "+91 9876543214",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 15,
+      "fullName": "Dhruv Mukherjee",
+      "class": 1,
+      "section": "B",
+      "stream": null,
+      "parentName": "Kiran Mukherjee",
+      "parentPhoneNumber": "+91 9876543215",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 16,
+      "fullName": "Lakshya Chatterjee",
+      "class": 1,
+      "section": "B",
+      "stream": null,
+      "parentName": "Priya Chatterjee",
+      "parentPhoneNumber": "+91 9876543216",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 17,
+      "fullName": "Riya Deshpande",
+      "class": 1,
+      "section": "B",
+      "stream": null,
+      "parentName": "Neeta Deshpande",
+      "parentPhoneNumber": "+91 9876543217",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 18,
+      "fullName": "Saanvi Kulkarni",
+      "class": 1,
+      "section": "B",
+      "stream": null,
+      "parentName": "Meena Kulkarni",
+      "parentPhoneNumber": "+91 9876543218",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 19,
+      "fullName": "Aanya Tiwari",
+      "class": 1,
+      "section": "B",
+      "stream": null,
+      "parentName": "Geeta Tiwari",
+      "parentPhoneNumber": "+91 9876543219",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 20,
+      "fullName": "Aadhya Chauhan",
+      "class": 1,
+      "section": "B",
+      "stream": null,
+      "parentName": "Sita Chauhan",
+      "parentPhoneNumber": "+91 9876543220",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 21,
+      "fullName": "Rudra Malhotra",
+      "class": 1,
+      "section": "C",
+      "stream": null,
+      "parentName": "Vikram Malhotra",
+      "parentPhoneNumber": "+91 9876543221",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 22,
+      "fullName": "Advait Saxena",
+      "class": 1,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rahul Saxena",
+      "parentPhoneNumber": "+91 9876543222",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 23,
+      "fullName": "Kiaan Chopra",
+      "class": 1,
+      "section": "C",
+      "stream": null,
+      "parentName": "Sanjay Chopra",
+      "parentPhoneNumber": "+91 9876543223",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 24,
+      "fullName": "Shaurya Bajaj",
+      "class": 1,
+      "section": "C",
+      "stream": null,
+      "parentName": "Mohit Bajaj",
+      "parentPhoneNumber": "+91 9876543224",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 25,
+      "fullName": "Ayush Bhalla",
+      "class": 1,
+      "section": "C",
+      "stream": null,
+      "parentName": "Naveen Bhalla",
+      "parentPhoneNumber": "+91 9876543225",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 26,
+      "fullName": "Aryan Khanna",
+      "class": 1,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rajiv Khanna",
+      "parentPhoneNumber": "+91 9876543226",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 27,
+      "fullName": "Aniket Arora",
+      "class": 1,
+      "section": "C",
+      "stream": null,
+      "parentName": "Sandeep Arora",
+      "parentPhoneNumber": "+91 9876543227",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 28,
+      "fullName": "Krish Mathur",
+      "class": 1,
+      "section": "C",
+      "stream": null,
+      "parentName": "Nitin Mathur",
+      "parentPhoneNumber": "+91 9876543228",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 29,
+      "fullName": "Aaditya Bedi",
+      "class": 1,
+      "section": "C",
+      "stream": null,
+      "parentName": "Vinay Bedi",
+      "parentPhoneNumber": "+91 9876543229",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 30,
+      "fullName": "Vivan Khurana",
+      "class": 1,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rohit Khurana",
+      "parentPhoneNumber": "+91 9876543230",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 31,
+      "fullName": "Sarthak Kapoor",
+      "class": 2,
+      "section": "A",
+      "stream": null,
+      "parentName": "Anil Kapoor",
+      "parentPhoneNumber": "+91 9876543231",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 32,
+      "fullName": "Arnav Bansal",
+      "class": 2,
+      "section": "A",
+      "stream": null,
+      "parentName": "Pramod Bansal",
+      "parentPhoneNumber": "+91 9876543232",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 33,
+      "fullName": "Yash Dhawan",
+      "class": 2,
+      "section": "A",
+      "stream": null,
+      "parentName": "Sameer Dhawan",
+      "parentPhoneNumber": "+91 9876543233",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 34,
+      "fullName": "Ved Kaul",
+      "class": 2,
+      "section": "A",
+      "stream": null,
+      "parentName": "Ravi Kaul",
+      "parentPhoneNumber": "+91 9876543234",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 35,
+      "fullName": "Vivek Khatri",
+      "class": 2,
+      "section": "A",
+      "stream": null,
+      "parentName": "Prakash Khatri",
+      "parentPhoneNumber": "+91 9876543235",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 36,
+      "fullName": "Dhruv Chawla",
+      "class": 2,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rajesh Chawla",
+      "parentPhoneNumber": "+91 9876543236",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 37,
+      "fullName": "Rohan Gupta",
+      "class": 2,
+      "section": "A",
+      "stream": null,
+      "parentName": "Dinesh Gupta",
+      "parentPhoneNumber": "+91 9876543237",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 38,
+      "fullName": "Ishan Thakur",
+      "class": 2,
+      "section": "A",
+      "stream": null,
+      "parentName": "Vikrant Thakur",
+      "parentPhoneNumber": "+91 9876543238",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 39,
+      "fullName": "Virat Malik",
+      "class": 2,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rajeev Malik",
+      "parentPhoneNumber": "+91 9876543239",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 40,
+      "fullName": "Atharv Basu",
+      "class": 2,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rajat Basu",
+      "parentPhoneNumber": "+91 9876543240",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 41,
+      "fullName": "Anushka Goel",
+      "class": 2,
+      "section": "B",
+      "stream": null,
+      "parentName": "Amit Goel",
+      "parentPhoneNumber": "+91 9876543241",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 42,
+      "fullName": "Tanvi Ahuja",
+      "class": 2,
+      "section": "B",
+      "stream": null,
+      "parentName": "Sunil Ahuja",
+      "parentPhoneNumber": "+91 9876543242",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 43,
+      "fullName": "Aisha Bhatia",
+      "class": 2,
+      "section": "B",
+      "stream": null,
+      "parentName": "Pankaj Bhatia",
+      "parentPhoneNumber": "+91 9876543243",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 44,
+      "fullName": "Myra Dutt",
+      "class": 2,
+      "section": "B",
+      "stream": null,
+      "parentName": "Sanjay Dutt",
+      "parentPhoneNumber": "+91 9876543244",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 45,
+      "fullName": "Siya Bakshi",
+      "class": 2,
+      "section": "B",
+      "stream": null,
+      "parentName": "Ajay Bakshi",
+      "parentPhoneNumber": "+91 9876543245",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 46,
+      "fullName": "Prisha Suri",
+      "class": 2,
+      "section": "B",
+      "stream": null,
+      "parentName": "Vikas Suri",
+      "parentPhoneNumber": "+91 9876543246",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 47,
+      "fullName": "Pari Kohli",
+      "class": 2,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rahul Kohli",
+      "parentPhoneNumber": "+91 9876543247",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 48,
+      "fullName": "Zara Sethi",
+      "class": 2,
+      "section": "B",
+      "stream": null,
+      "parentName": "Kunal Sethi",
+      "parentPhoneNumber": "+91 9876543248",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 49,
+      "fullName": "Shanaya Pillai",
+      "class": 2,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rajiv Pillai",
+      "parentPhoneNumber": "+91 9876543249",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 50,
+      "fullName": "Ira Chhabra",
+      "class": 2,
+      "section": "B",
+      "stream": null,
+      "parentName": "Arjun Chhabra",
+      "parentPhoneNumber": "+91 9876543250",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 51,
+      "fullName": "Raghav Desai",
+      "class": 2,
+      "section": "C",
+      "stream": null,
+      "parentName": "Nikhil Desai",
+      "parentPhoneNumber": "+91 9876543251",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 52,
+      "fullName": "Parth Menon",
+      "class": 2,
+      "section": "C",
+      "stream": null,
+      "parentName": "Arun Menon",
+      "parentPhoneNumber": "+91 9876543252",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 53,
+      "fullName": "Kabir Hegde",
+      "class": 2,
+      "section": "C",
+      "stream": null,
+      "parentName": "Siddharth Hegde",
+      "parentPhoneNumber": "+91 9876543253",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 54,
+      "fullName": "Yuvan Trivedi",
+      "class": 2,
+      "section": "C",
+      "stream": null,
+      "parentName": "Manish Trivedi",
+      "parentPhoneNumber": "+91 9876543254",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 55,
+      "fullName": "Ahaan Narang",
+      "class": 2,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rohan Narang",
+      "parentPhoneNumber": "+91 9876543255",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 56,
+      "fullName": "Kabir Saini",
+      "class": 2,
+      "section": "C",
+      "stream": null,
+      "parentName": "Akhil Saini",
+      "parentPhoneNumber": "+91 9876543256",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 57,
+      "fullName": "Neil Anand",
+      "class": 2,
+      "section": "C",
+      "stream": null,
+      "parentName": "Ajay Anand",
+      "parentPhoneNumber": "+91 9876543257",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 58,
+      "fullName": "Veer Rajan",
+      "class": 2,
+      "section": "C",
+      "stream": null,
+      "parentName": "Suresh Rajan",
+      "parentPhoneNumber": "+91 9876543258",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 59,
+      "fullName": "Aman Rajput",
+      "class": 2,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rohit Rajput",
+      "parentPhoneNumber": "+91 9876543259",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 60,
+      "fullName": "Shaan Gill",
+      "class": 2,
+      "section": "C",
+      "stream": null,
+      "parentName": "Karan Gill",
+      "parentPhoneNumber": "+91 9876543260",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 61,
+      "fullName": "Advik Verma",
+      "class": 3,
+      "section": "A",
+      "stream": null,
+      "parentName": "Arjun Verma",
+      "parentPhoneNumber": "+91 9876543261",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 62,
+      "fullName": "Rishabh Khullar",
+      "class": 3,
+      "section": "A",
+      "stream": null,
+      "parentName": "Kapil Khullar",
+      "parentPhoneNumber": "+91 9876543262",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 63,
+      "fullName": "Samar Chandra",
+      "class": 3,
+      "section": "A",
+      "stream": null,
+      "parentName": "Sushil Chandra",
+      "parentPhoneNumber": "+91 9876543263",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 64,
+      "fullName": "Viraj Bawa",
+      "class": 3,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rajeev Bawa",
+      "parentPhoneNumber": "+91 9876543264",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 65,
+      "fullName": "Armaan Batra",
+      "class": 3,
+      "section": "A",
+      "stream": null,
+      "parentName": "Neeraj Batra",
+      "parentPhoneNumber": "+91 9876543265",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 66,
+      "fullName": "Kiaan Sood",
+      "class": 3,
+      "section": "A",
+      "stream": null,
+      "parentName": "Deepak Sood",
+      "parentPhoneNumber": "+91 9876543266",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 67,
+      "fullName": "Anirudh Brar",
+      "class": 3,
+      "section": "A",
+      "stream": null,
+      "parentName": "Harish Brar",
+      "parentPhoneNumber": "+91 9876543267",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 68,
+      "fullName": "Zain Sinha",
+      "class": 3,
+      "section": "A",
+      "stream": null,
+      "parentName": "Ankit Sinha",
+      "parentPhoneNumber": "+91 9876543268",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 69,
+      "fullName": "Shiv Kapur",
+      "class": 3,
+      "section": "A",
+      "stream": null,
+      "parentName": "Sanjay Kapur",
+      "parentPhoneNumber": "+91 9876543269",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 70,
+      "fullName": "Agastya Bhasin",
+      "class": 3,
+      "section": "A",
+      "stream": null,
+      "parentName": "Vivek Bhasin",
+      "parentPhoneNumber": "+91 9876543270",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 71,
+      "fullName": "Anaya Trehan",
+      "class": 3,
+      "section": "B",
+      "stream": null,
+      "parentName": "Nikhil Trehan",
+      "parentPhoneNumber": "+91 9876543271",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 72,
+      "fullName": "Pihu Grover",
+      "class": 3,
+      "section": "B",
+      "stream": null,
+      "parentName": "Pankaj Grover",
+      "parentPhoneNumber": "+91 9876543272",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 73,
+      "fullName": "Aarohi Nanda",
+      "class": 3,
+      "section": "B",
+      "stream": null,
+      "parentName": "Sameer Nanda",
+      "parentPhoneNumber": "+91 9876543273",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 74,
+      "fullName": "Myra Vohra",
+      "class": 3,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rajat Vohra",
+      "parentPhoneNumber": "+91 9876543274",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 75,
+      "fullName": "Navya Khosla",
+      "class": 3,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rajeev Khosla",
+      "parentPhoneNumber": "+91 9876543275",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 76,
+      "fullName": "Meera Luthra",
+      "class": 3,
+      "section": "B",
+      "stream": null,
+      "parentName": "Siddharth Luthra",
+      "parentPhoneNumber": "+91 9876543276",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 77,
+      "fullName": "Tara Manchanda",
+      "class": 3,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rajan Manchanda",
+      "parentPhoneNumber": "+91 9876543277",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 78,
+      "fullName": "Kyra Chaudhary",
+      "class": 3,
+      "section": "B",
+      "stream": null,
+      "parentName": "Vikas Chaudhary",
+      "parentPhoneNumber": "+91 9876543278",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 79,
+      "fullName": "Norah Kapadia",
+      "class": 3,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rohit Kapadia",
+      "parentPhoneNumber": "+91 9876543279",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 80,
+      "fullName": "Kiara Srivastava",
+      "class": 3,
+      "section": "B",
+      "stream": null,
+      "parentName": "Abhishek Srivastava",
+      "parentPhoneNumber": "+91 9876543280",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 81,
+      "fullName": "Riaan Uppal",
+      "class": 3,
+      "section": "C",
+      "stream": null,
+      "parentName": "Karan Uppal",
+      "parentPhoneNumber": "+91 9876543281",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 82,
+      "fullName": "Advik Rana",
+      "class": 3,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rishi Rana",
+      "parentPhoneNumber": "+91 9876543282",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 83,
+      "fullName": "Rehan Walia",
+      "class": 3,
+      "section": "C",
+      "stream": null,
+      "parentName": "Tarun Walia",
+      "parentPhoneNumber": "+91 9876543283",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 84,
+      "fullName": "Yuvaan Bahl",
+      "class": 3,
+      "section": "C",
+      "stream": null,
+      "parentName": "Vinod Bahl",
+      "parentPhoneNumber": "+91 9876543284",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 85,
+      "fullName": "Viaan Sachdev",
+      "class": 3,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rajesh Sachdev",
+      "parentPhoneNumber": "+91 9876543285",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 86,
+      "fullName": "Shivansh Mehra",
+      "class": 3,
+      "section": "C",
+      "stream": null,
+      "parentName": "Deepak Mehra",
+      "parentPhoneNumber": "+91 9876543286",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 87,
+      "fullName": "Aahan Grewal",
+      "class": 3,
+      "section": "C",
+      "stream": null,
+      "parentName": "Manish Grewal",
+      "parentPhoneNumber": "+91 9876543287",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 88,
+      "fullName": "Madhav Singhania",
+      "class": 3,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rohit Singhania",
+      "parentPhoneNumber": "+91 9876543288",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 89,
+      "fullName": "Aarush Wadhwa",
+      "class": 3,
+      "section": "C",
+      "stream": null,
+      "parentName": "Nitin Wadhwa",
+      "parentPhoneNumber": "+91 9876543289",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 90,
+      "fullName": "Laksh Talwar",
+      "class": 3,
+      "section": "C",
+      "stream": null,
+      "parentName": "Manoj Talwar",
+      "parentPhoneNumber": "+91 9876543290",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 91,
+      "fullName": "Pranav Bajaj",
+      "class": 4,
+      "section": "A",
+      "stream": null,
+      "parentName": "Neeraj Bajaj",
+      "parentPhoneNumber": "+91 9876543291",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 92,
+      "fullName": "Siddhant Khattar",
+      "class": 4,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rohit Khattar",
+      "parentPhoneNumber": "+91 9876543292",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 93,
+      "fullName": "Soham Madan",
+      "class": 4,
+      "section": "A",
+      "stream": null,
+      "parentName": "Vipul Madan",
+      "parentPhoneNumber": "+91 9876543293",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 94,
+      "fullName": "Aadi Nagpal",
+      "class": 4,
+      "section": "A",
+      "stream": null,
+      "parentName": "Sameer Nagpal",
+      "parentPhoneNumber": "+91 9876543294",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 95,
+      "fullName": "Ishaan Puri",
+      "class": 4,
+      "section": "A",
+      "stream": null,
+      "parentName": "Anuj Puri",
+      "parentPhoneNumber": "+91 9876543295",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 96,
+      "fullName": "Kabir Ahuja",
+      "class": 4,
+      "section": "A",
+      "stream": null,
+      "parentName": "Varun Ahuja",
+      "parentPhoneNumber": "+91 9876543296",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 97,
+      "fullName": "Darsh Chopra",
+      "class": 4,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rahul Chopra",
+      "parentPhoneNumber": "+91 9876543297",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 98,
+      "fullName": "Manav Sabharwal",
+      "class": 4,
+      "section": "A",
+      "stream": null,
+      "parentName": "Anil Sabharwal",
+      "parentPhoneNumber": "+91 9876543298",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 99,
+      "fullName": "Aarit Sodhi",
+      "class": 4,
+      "section": "A",
+      "stream": null,
+      "parentName": "Nitin Sodhi",
+      "parentPhoneNumber": "+91 9876543299",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 100,
+      "fullName": "Ritvik Chadha",
+      "class": 4,
+      "section": "A",
+      "stream": null,
+      "parentName": "Sanjay Chadha",
+      "parentPhoneNumber": "+91 9876543300",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 101,
+      "fullName": "Mishka Dhingra",
+      "class": 4,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rajat Dhingra",
+      "parentPhoneNumber": "+91 9876543301",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 102,
+      "fullName": "Nitya Tandon",
+      "class": 4,
+      "section": "B",
+      "stream": null,
+      "parentName": "Aakash Tandon",
+      "parentPhoneNumber": "+91 9876543302",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 103,
+      "fullName": "Anvi Aggarwal",
+      "class": 4,
+      "section": "B",
+      "stream": null,
+      "parentName": "Ajay Aggarwal",
+      "parentPhoneNumber": "+91 9876543303",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 104,
+      "fullName": "Zoya Bhaskar",
+      "class": 4,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rahul Bhaskar",
+      "parentPhoneNumber": "+91 9876543304",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 105,
+      "fullName": "Aavya Seth",
+      "class": 4,
+      "section": "B",
+      "stream": null,
+      "parentName": "Nikhil Seth",
+      "parentPhoneNumber": "+91 9876543305",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 106,
+      "fullName": "Nyra Batra",
+      "class": 4,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rajiv Batra",
+      "parentPhoneNumber": "+91 9876543306",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 107,
+      "fullName": "Pia Rastogi",
+      "class": 4,
+      "section": "B",
+      "stream": null,
+      "parentName": "Vikram Rastogi",
+      "parentPhoneNumber": "+91 9876543307",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 108,
+      "fullName": "Aria Bhatia",
+      "class": 4,
+      "section": "B",
+      "stream": null,
+      "parentName": "Karan Bhatia",
+      "parentPhoneNumber": "+91 9876543308",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 109,
+      "fullName": "Ira Marwah",
+      "class": 4,
+      "section": "B",
+      "stream": null,
+      "parentName": "Gaurav Marwah",
+      "parentPhoneNumber": "+91 9876543309",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 110,
+      "fullName": "Anika Kapoor",
+      "class": 4,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rohan Kapoor",
+      "parentPhoneNumber": "+91 9876543310",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 111,
+      "fullName": "Dev Datta",
+      "class": 4,
+      "section": "C",
+      "stream": null,
+      "parentName": "Manoj Datta",
+      "parentPhoneNumber": "+91 9876543311",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 112,
+      "fullName": "Jatin Sharma",
+      "class": 4,
+      "section": "C",
+      "stream": null,
+      "parentName": "Nitin Sharma",
+      "parentPhoneNumber": "+91 9876543312",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 113,
+      "fullName": "Krish Kohli",
+      "class": 4,
+      "section": "C",
+      "stream": null,
+      "parentName": "Vivek Kohli",
+      "parentPhoneNumber": "+91 9876543313",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 114,
+      "fullName": "Aarav Garg",
+      "class": 4,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rohit Garg",
+      "parentPhoneNumber": "+91 9876543314",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 115,
+      "fullName": "Dhruv Chowdhury",
+      "class": 4,
+      "section": "C",
+      "stream": null,
+      "parentName": "Sameer Chowdhury",
+      "parentPhoneNumber": "+91 9876543315",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 116,
+      "fullName": "Hridaan Beri",
+      "class": 4,
+      "section": "C",
+      "stream": null,
+      "parentName": "Sanjay Beri",
+      "parentPhoneNumber": "+91 9876543316",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 117,
+      "fullName": "Kabir Lal",
+      "class": 4,
+      "section": "C",
+      "stream": null,
+      "parentName": "Akshay Lal",
+      "parentPhoneNumber": "+91 9876543317",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 118,
+      "fullName": "Vihaan Menon",
+      "class": 4,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rajat Menon",
+      "parentPhoneNumber": "+91 9876543318",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 119,
+      "fullName": "Reyansh Varma",
+      "class": 4,
+      "section": "C",
+      "stream": null,
+      "parentName": "Varun Varma",
+      "parentPhoneNumber": "+91 9876543319",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 120,
+      "fullName": "Arhaan Choudhary",
+      "class": 4,
+      "section": "C",
+      "stream": null,
+      "parentName": "Vishal Choudhary",
+      "parentPhoneNumber": "+91 9876543320",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 121,
+      "fullName": "Aryan Malhotra",
+      "class": 5,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rohit Malhotra",
+      "parentPhoneNumber": "+91 9876543321",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 122,
+      "fullName": "Aayush Khanna",
+      "class": 5,
+      "section": "A",
+      "stream": null,
+      "parentName": "Amit Khanna",
+      "parentPhoneNumber": "+91 9876543322",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 123,
+      "fullName": "Veer Reddy",
+      "class": 5,
+      "section": "A",
+      "stream": null,
+      "parentName": "Ajay Reddy",
+      "parentPhoneNumber": "+91 9876543323",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 124,
+      "fullName": "Vivaan Chauhan",
+      "class": 5,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rahul Chauhan",
+      "parentPhoneNumber": "+91 9876543324",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 125,
+      "fullName": "Shaurya Gupta",
+      "class": 5,
+      "section": "A",
+      "stream": null,
+      "parentName": "Sunil Gupta",
+      "parentPhoneNumber": "+91 9876543325",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 126,
+      "fullName": "Advait Singh",
+      "class": 5,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rajeev Singh",
+      "parentPhoneNumber": "+91 9876543326",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 127,
+      "fullName": "Aarav Nair",
+      "class": 5,
+      "section": "A",
+      "stream": null,
+      "parentName": "Sanjay Nair",
+      "parentPhoneNumber": "+91 9876543327",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 128,
+      "fullName": "Dhruv Mehta",
+      "class": 5,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rakesh Mehta",
+      "parentPhoneNumber": "+91 9876543328",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 129,
+      "fullName": "Reyansh Kumar",
+      "class": 5,
+      "section": "A",
+      "stream": null,
+      "parentName": "Vikram Kumar",
+      "parentPhoneNumber": "+91 9876543329",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 130,
+      "fullName": "Kiaan Patel",
+      "class": 5,
+      "section": "A",
+      "stream": null,
+      "parentName": "Ankit Patel",
+      "parentPhoneNumber": "+91 9876543330",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 131,
+      "fullName": "Anvi Joshi",
+      "class": 5,
+      "section": "B",
+      "stream": null,
+      "parentName": "Nikhil Joshi",
+      "parentPhoneNumber": "+91 9876543331",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 132,
+      "fullName": "Zara Shah",
+      "class": 5,
+      "section": "B",
+      "stream": null,
+      "parentName": "Aakash Shah",
+      "parentPhoneNumber": "+91 9876543332",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 133,
+      "fullName": "Myra Bajaj",
+      "class": 5,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rajeev Bajaj",
+      "parentPhoneNumber": "+91 9876543333",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 134,
+      "fullName": "Anika Verma",
+      "class": 5,
+      "section": "B",
+      "stream": null,
+      "parentName": "Arun Verma",
+      "parentPhoneNumber": "+91 9876543334",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 135,
+      "fullName": "Aanya Mishra",
+      "class": 5,
+      "section": "B",
+      "stream": null,
+      "parentName": "Vikrant Mishra",
+      "parentPhoneNumber": "+91 9876543335",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 136,
+      "fullName": "Riya Agarwal",
+      "class": 5,
+      "section": "B",
+      "stream": null,
+      "parentName": "Saurabh Agarwal",
+      "parentPhoneNumber": "+91 9876543336",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 137,
+      "fullName": "Pihu Rao",
+      "class": 5,
+      "section": "B",
+      "stream": null,
+      "parentName": "Naveen Rao",
+      "parentPhoneNumber": "+91 9876543337",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 138,
+      "fullName": "Aarohi Bhatt",
+      "class": 5,
+      "section": "B",
+      "stream": null,
+      "parentName": "Sanjay Bhatt",
+      "parentPhoneNumber": "+91 9876543338",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 139,
+      "fullName": "Aditi Saxena",
+      "class": 5,
+      "section": "B",
+      "stream": null,
+      "parentName": "Alok Saxena",
+      "parentPhoneNumber": "+91 9876543339",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 140,
+      "fullName": "Saanvi Mukherjee",
+      "class": 5,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rajat Mukherjee",
+      "parentPhoneNumber": "+91 9876543340",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 141,
+      "fullName": "Aayansh Mehra",
+      "class": 5,
+      "section": "C",
+      "stream": null,
+      "parentName": "Vivek Mehra",
+      "parentPhoneNumber": "+91 9876543341",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 142,
+      "fullName": "Atharv Sood",
+      "class": 5,
+      "section": "C",
+      "stream": null,
+      "parentName": "Anuj Sood",
+      "parentPhoneNumber": "+91 9876543342",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 143,
+      "fullName": "Kabir Ahuja",
+      "class": 5,
+      "section": "C",
+      "stream": null,
+      "parentName": "Akhil Ahuja",
+      "parentPhoneNumber": "+91 9876543343",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 144,
+      "fullName": "Yuvaan Suri",
+      "class": 5,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rajeev Suri",
+      "parentPhoneNumber": "+91 9876543344",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 145,
+      "fullName": "Viaan Khullar",
+      "class": 5,
+      "section": "C",
+      "stream": null,
+      "parentName": "Manish Khullar",
+      "parentPhoneNumber": "+91 9876543345",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 146,
+      "fullName": "Ivaan Khanna",
+      "class": 5,
+      "section": "C",
+      "stream": null,
+      "parentName": "Varun Khanna",
+      "parentPhoneNumber": "+91 9876543346",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 147,
+      "fullName": "Rudra Bhasin",
+      "class": 5,
+      "section": "C",
+      "stream": null,
+      "parentName": "Nitin Bhasin",
+      "parentPhoneNumber": "+91 9876543347",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 148,
+      "fullName": "Aahil Arora",
+      "class": 5,
+      "section": "C",
+      "stream": null,
+      "parentName": "Tarun Arora",
+      "parentPhoneNumber": "+91 9876543348",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 149,
+      "fullName": "Shivansh Chopra",
+      "class": 5,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rahul Chopra",
+      "parentPhoneNumber": "+91 9876543349",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 150,
+      "fullName": "Shaurya Khurana",
+      "class": 5,
+      "section": "C",
+      "stream": null,
+      "parentName": "Aakash Khurana",
+      "parentPhoneNumber": "+91 9876543350",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 151,
+      "fullName": "Aarav Mathur",
+      "class": 6,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rajeev Mathur",
+      "parentPhoneNumber": "+91 9876543351",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 152,
+      "fullName": "Vihaan Bedi",
+      "class": 6,
+      "section": "A",
+      "stream": null,
+      "parentName": "Naveen Bedi",
+      "parentPhoneNumber": "+91 9876543352",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 153,
+      "fullName": "Aditya Khurana",
+      "class": 6,
+      "section": "A",
+      "stream": null,
+      "parentName": "Deepak Khurana",
+      "parentPhoneNumber": "+91 9876543353",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 154,
+      "fullName": "Arjun Kapoor",
+      "class": 6,
+      "section": "A",
+      "stream": null,
+      "parentName": "Suresh Kapoor",
+      "parentPhoneNumber": "+91 9876543354",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 155,
+      "fullName": "Reyansh Bansal",
+      "class": 6,
+      "section": "A",
+      "stream": null,
+      "parentName": "Karan Bansal",
+      "parentPhoneNumber": "+91 9876543355",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 156,
+      "fullName": "Ayaan Dhawan",
+      "class": 6,
+      "section": "A",
+      "stream": null,
+      "parentName": "Ankit Dhawan",
+      "parentPhoneNumber": "+91 9876543356",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 157,
+      "fullName": "Divya Kaul",
+      "class": 6,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rajat Kaul",
+      "parentPhoneNumber": "+91 9876543357",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 158,
+      "fullName": "Neha Khatri",
+      "class": 6,
+      "section": "A",
+      "stream": null,
+      "parentName": "Vikas Khatri",
+      "parentPhoneNumber": "+91 9876543358",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 159,
+      "fullName": "Ananya Chawla",
+      "class": 6,
+      "section": "A",
+      "stream": null,
+      "parentName": "Aakash Chawla",
+      "parentPhoneNumber": "+91 9876543359",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 160,
+      "fullName": "Diya Gupta",
+      "class": 6,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rohit Gupta",
+      "parentPhoneNumber": "+91 9876543360",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 161,
+      "fullName": "Advait Thakur",
+      "class": 6,
+      "section": "B",
+      "stream": null,
+      "parentName": "Ravi Thakur",
+      "parentPhoneNumber": "+91 9876543361",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 162,
+      "fullName": "Kiaan Malik",
+      "class": 6,
+      "section": "B",
+      "stream": null,
+      "parentName": "Sanjay Malik",
+      "parentPhoneNumber": "+91 9876543362",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 163,
+      "fullName": "Shaurya Basu",
+      "class": 6,
+      "section": "B",
+      "stream": null,
+      "parentName": "Pankaj Basu",
+      "parentPhoneNumber": "+91 9876543363",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 164,
+      "fullName": "Ayush Goel",
+      "class": 6,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rohit Goel",
+      "parentPhoneNumber": "+91 9876543364",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 165,
+      "fullName": "Aryan Ahuja",
+      "class": 6,
+      "section": "B",
+      "stream": null,
+      "parentName": "Manish Ahuja",
+      "parentPhoneNumber": "+91 9876543365",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 166,
+      "fullName": "Aniket Bhatia",
+      "class": 6,
+      "section": "B",
+      "stream": null,
+      "parentName": "Naveen Bhatia",
+      "parentPhoneNumber": "+91 9876543366",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 167,
+      "fullName": "Krish Dutt",
+      "class": 6,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rajiv Dutt",
+      "parentPhoneNumber": "+91 9876543367",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 168,
+      "fullName": "Aaditya Bakshi",
+      "class": 6,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rajesh Bakshi",
+      "parentPhoneNumber": "+91 9876543368",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 169,
+      "fullName": "Vivan Suri",
+      "class": 6,
+      "section": "B",
+      "stream": null,
+      "parentName": "Vikas Suri",
+      "parentPhoneNumber": "+91 9876543369",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 170,
+      "fullName": "Sarthak Kohli",
+      "class": 6,
+      "section": "B",
+      "stream": null,
+      "parentName": "Amit Kohli",
+      "parentPhoneNumber": "+91 9876543370",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 171,
+      "fullName": "Tanvi Sethi",
+      "class": 6,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rajeev Sethi",
+      "parentPhoneNumber": "+91 9876543371",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 172,
+      "fullName": "Aisha Pillai",
+      "class": 6,
+      "section": "C",
+      "stream": null,
+      "parentName": "Karan Pillai",
+      "parentPhoneNumber": "+91 9876543372",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 173,
+      "fullName": "Myra Chhabra",
+      "class": 6,
+      "section": "C",
+      "stream": null,
+      "parentName": "Akhil Chhabra",
+      "parentPhoneNumber": "+91 9876543373",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 174,
+      "fullName": "Siya Desai",
+      "class": 6,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rajeev Desai",
+      "parentPhoneNumber": "+91 9876543374",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 175,
+      "fullName": "Prisha Menon",
+      "class": 6,
+      "section": "C",
+      "stream": null,
+      "parentName": "Ajay Menon",
+      "parentPhoneNumber": "+91 9876543375",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 176,
+      "fullName": "Pari Hegde",
+      "class": 6,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rohit Hegde",
+      "parentPhoneNumber": "+91 9876543376",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 177,
+      "fullName": "Zara Trivedi",
+      "class": 6,
+      "section": "C",
+      "stream": null,
+      "parentName": "Nikhil Trivedi",
+      "parentPhoneNumber": "+91 9876543377",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 178,
+      "fullName": "Shanaya Narang",
+      "class": 6,
+      "section": "C",
+      "stream": null,
+      "parentName": "Sanjay Narang",
+      "parentPhoneNumber": "+91 9876543378",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 179,
+      "fullName": "Ira Saini",
+      "class": 6,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rahul Saini",
+      "parentPhoneNumber": "+91 9876543379",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 180,
+      "fullName": "Anushka Anand",
+      "class": 6,
+      "section": "C",
+      "stream": null,
+      "parentName": "Vishal Anand",
+      "parentPhoneNumber": "+91 9876543380",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 181,
+      "fullName": "Raghav Rajan",
+      "class": 7,
+      "section": "A",
+      "stream": null,
+      "parentName": "Vikram Rajan",
+      "parentPhoneNumber": "+91 9876543381",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 182,
+      "fullName": "Parth Rajput",
+      "class": 7,
+      "section": "A",
+      "stream": null,
+      "parentName": "Aakash Rajput",
+      "parentPhoneNumber": "+91 9876543382",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 183,
+      "fullName": "Kabir Gill",
+      "class": 7,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rohit Gill",
+      "parentPhoneNumber": "+91 9876543383",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 184,
+      "fullName": "Yuvan Verma",
+      "class": 7,
+      "section": "A",
+      "stream": null,
+      "parentName": "Ankit Verma",
+      "parentPhoneNumber": "+91 9876543384",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 185,
+      "fullName": "Ahaan Khullar",
+      "class": 7,
+      "section": "A",
+      "stream": null,
+      "parentName": "Nikhil Khullar",
+      "parentPhoneNumber": "+91 9876543385",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 186,
+      "fullName": "Aarush Chandra",
+      "class": 7,
+      "section": "A",
+      "stream": null,
+      "parentName": "Siddharth Chandra",
+      "parentPhoneNumber": "+91 9876543386",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 187,
+      "fullName": "Neil Bawa",
+      "class": 7,
+      "section": "A",
+      "stream": null,
+      "parentName": "Kunal Bawa",
+      "parentPhoneNumber": "+91 9876543387",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 188,
+      "fullName": "Veer Batra",
+      "class": 7,
+      "section": "A",
+      "stream": null,
+      "parentName": "Anuj Batra",
+      "parentPhoneNumber": "+91 9876543388",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 189,
+      "fullName": "Aman Sood",
+      "class": 7,
+      "section": "A",
+      "stream": null,
+      "parentName": "Vikram Sood",
+      "parentPhoneNumber": "+91 9876543389",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 190,
+      "fullName": "Shaan Brar",
+      "class": 7,
+      "section": "A",
+      "stream": null,
+      "parentName": "Nitin Brar",
+      "parentPhoneNumber": "+91 9876543390",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 191,
+      "fullName": "Anaya Sinha",
+      "class": 7,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rajan Sinha",
+      "parentPhoneNumber": "+91 9876543391",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 192,
+      "fullName": "Pihu Kapur",
+      "class": 7,
+      "section": "B",
+      "stream": null,
+      "parentName": "Manish Kapur",
+      "parentPhoneNumber": "+91 9876543392",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 193,
+      "fullName": "Aarohi Bhasin",
+      "class": 7,
+      "section": "B",
+      "stream": null,
+      "parentName": "Alok Bhasin",
+      "parentPhoneNumber": "+91 9876543393",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 194,
+      "fullName": "Myra Trehan",
+      "class": 7,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rahul Trehan",
+      "parentPhoneNumber": "+91 9876543394",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 195,
+      "fullName": "Navya Grover",
+      "class": 7,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rohit Grover",
+      "parentPhoneNumber": "+91 9876543395",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 196,
+      "fullName": "Meera Nanda",
+      "class": 7,
+      "section": "B",
+      "stream": null,
+      "parentName": "Nikhil Nanda",
+      "parentPhoneNumber": "+91 9876543396",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 197,
+      "fullName": "Tara Vohra",
+      "class": 7,
+      "section": "B",
+      "stream": null,
+      "parentName": "Siddharth Vohra",
+      "parentPhoneNumber": "+91 9876543397",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 198,
+      "fullName": "Kyra Khosla",
+      "class": 7,
+      "section": "B",
+      "stream": null,
+      "parentName": "Ankit Khosla",
+      "parentPhoneNumber": "+91 9876543398",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 199,
+      "fullName": "Norah Luthra",
+      "class": 7,
+      "section": "B",
+      "stream": null,
+      "parentName": "Aakash Luthra",
+      "parentPhoneNumber": "+91 9876543399",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 200,
+      "fullName": "Kiara Manchanda",
+      "class": 7,
+      "section": "B",
+      "stream": null,
+      "parentName": "Akhil Manchanda",
+      "parentPhoneNumber": "+91 9876543400",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 201,
+      "fullName": "Riaan Chaudhary",
+      "class": 7,
+      "section": "C",
+      "stream": null,
+      "parentName": "Karan Chaudhary",
+      "parentPhoneNumber": "+91 9876543401",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 202,
+      "fullName": "Advik Kapadia",
+      "class": 7,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rohit Kapadia",
+      "parentPhoneNumber": "+91 9876543402",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 203,
+      "fullName": "Rehan Srivastava",
+      "class": 7,
+      "section": "C",
+      "stream": null,
+      "parentName": "Neeraj Srivastava",
+      "parentPhoneNumber": "+91 9876543403",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 204,
+      "fullName": "Yuvaan Uppal",
+      "class": 7,
+      "section": "C",
+      "stream": null,
+      "parentName": "Varun Uppal",
+      "parentPhoneNumber": "+91 9876543404",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 205,
+      "fullName": "Viaan Rana",
+      "class": 7,
+      "section": "C",
+      "stream": null,
+      "parentName": "Arun Rana",
+      "parentPhoneNumber": "+91 9876543405",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 206,
+      "fullName": "Shivansh Walia",
+      "class": 7,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rajeev Walia",
+      "parentPhoneNumber": "+91 9876543406",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 207,
+      "fullName": "Aahan Bahl",
+      "class": 7,
+      "section": "C",
+      "stream": null,
+      "parentName": "Anuj Bahl",
+      "parentPhoneNumber": "+91 9876543407",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 208,
+      "fullName": "Madhav Sachdev",
+      "class": 7,
+      "section": "C",
+      "stream": null,
+      "parentName": "Suresh Sachdev",
+      "parentPhoneNumber": "+91 9876543408",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 209,
+      "fullName": "Aarush Mehra",
+      "class": 7,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rajiv Mehra",
+      "parentPhoneNumber": "+91 9876543409",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 210,
+      "fullName": "Laksh Grewal",
+      "class": 7,
+      "section": "C",
+      "stream": null,
+      "parentName": "Aakash Grewal",
+      "parentPhoneNumber": "+91 9876543410",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 211,
+      "fullName": "Pranav Singhania",
+      "class": 8,
+      "section": "A",
+      "stream": null,
+      "parentName": "Amit Singhania",
+      "parentPhoneNumber": "+91 9876543411",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 212,
+      "fullName": "Siddhant Wadhwa",
+      "class": 8,
+      "section": "A",
+      "stream": null,
+      "parentName": "Sanjay Wadhwa",
+      "parentPhoneNumber": "+91 9876543412",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 213,
+      "fullName": "Soham Talwar",
+      "class": 8,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rajeev Talwar",
+      "parentPhoneNumber": "+91 9876543413",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 214,
+      "fullName": "Aadi Bajaj",
+      "class": 8,
+      "section": "A",
+      "stream": null,
+      "parentName": "Ankit Bajaj",
+      "parentPhoneNumber": "+91 9876543414",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 215,
+      "fullName": "Ishaan Khattar",
+      "class": 8,
+      "section": "A",
+      "stream": null,
+      "parentName": "Vikas Khattar",
+      "parentPhoneNumber": "+91 9876543415",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 216,
+      "fullName": "Kabir Madan",
+      "class": 8,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rajesh Madan",
+      "parentPhoneNumber": "+91 9876543416",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 217,
+      "fullName": "Darsh Nagpal",
+      "class": 8,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rohit Nagpal",
+      "parentPhoneNumber": "+91 9876543417",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 218,
+      "fullName": "Manav Puri",
+      "class": 8,
+      "section": "A",
+      "stream": null,
+      "parentName": "Sanjay Puri",
+      "parentPhoneNumber": "+91 9876543418",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 219,
+      "fullName": "Aarit Ahuja",
+      "class": 8,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rajat Ahuja",
+      "parentPhoneNumber": "+91 9876543419",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 220,
+      "fullName": "Ritvik Chopra",
+      "class": 8,
+      "section": "A",
+      "stream": null,
+      "parentName": "Nikhil Chopra",
+      "parentPhoneNumber": "+91 9876543420",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 221,
+      "fullName": "Mishka Sabharwal",
+      "class": 8,
+      "section": "B",
+      "stream": null,
+      "parentName": "Karan Sabharwal",
+      "parentPhoneNumber": "+91 9876543421",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 222,
+      "fullName": "Nitya Sodhi",
+      "class": 8,
+      "section": "B",
+      "stream": null,
+      "parentName": "Akhil Sodhi",
+      "parentPhoneNumber": "+91 9876543422",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 223,
+      "fullName": "Anvi Chadha",
+      "class": 8,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rohit Chadha",
+      "parentPhoneNumber": "+91 9876543423",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 224,
+      "fullName": "Zoya Dhingra",
+      "class": 8,
+      "section": "B",
+      "stream": null,
+      "parentName": "Sameer Dhingra",
+      "parentPhoneNumber": "+91 9876543424",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 225,
+      "fullName": "Aavya Tandon",
+      "class": 8,
+      "section": "B",
+      "stream": null,
+      "parentName": "Vikas Tandon",
+      "parentPhoneNumber": "+91 9876543425",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 226,
+      "fullName": "Nyra Aggarwal",
+      "class": 8,
+      "section": "B",
+      "stream": null,
+      "parentName": "Ankit Aggarwal",
+      "parentPhoneNumber": "+91 9876543426",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 227,
+      "fullName": "Pia Bhaskar",
+      "class": 8,
+      "section": "B",
+      "stream": null,
+      "parentName": "Deepak Bhaskar",
+      "parentPhoneNumber": "+91 9876543427",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 228,
+      "fullName": "Aria Seth",
+      "class": 8,
+      "section": "B",
+      "stream": null,
+      "parentName": "Sanjay Seth",
+      "parentPhoneNumber": "+91 9876543428",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 229,
+      "fullName": "Ira Batra",
+      "class": 8,
+      "section": "B",
+      "stream": null,
+      "parentName": "Nitin Batra",
+      "parentPhoneNumber": "+91 9876543429",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 230,
+      "fullName": "Anika Rastogi",
+      "class": 8,
+      "section": "B",
+      "stream": null,
+      "parentName": "Arjun Rastogi",
+      "parentPhoneNumber": "+91 9876543430",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 231,
+      "fullName": "Dev Bhatia",
+      "class": 8,
+      "section": "C",
+      "stream": null,
+      "parentName": "Vikram Bhatia",
+      "parentPhoneNumber": "+91 9876543431",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 232,
+      "fullName": "Jatin Marwah",
+      "class": 8,
+      "section": "C",
+      "stream": null,
+      "parentName": "Siddharth Marwah",
+      "parentPhoneNumber": "+91 9876543432",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 233,
+      "fullName": "Krish Kapoor",
+      "class": 8,
+      "section": "C",
+      "stream": null,
+      "parentName": "Manish Kapoor",
+      "parentPhoneNumber": "+91 9876543433",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 234,
+      "fullName": "Aarav Datta",
+      "class": 8,
+      "section": "C",
+      "stream": null,
+      "parentName": "Anuj Datta",
+      "parentPhoneNumber": "+91 9876543434",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 235,
+      "fullName": "Dhruv Sharma",
+      "class": 8,
+      "section": "C",
+      "stream": null,
+      "parentName": "Vineet Sharma",
+      "parentPhoneNumber": "+91 9876543435",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 236,
+      "fullName": "Hridaan Kohli",
+      "class": 8,
+      "section": "C",
+      "stream": null,
+      "parentName": "Amit Kohli",
+      "parentPhoneNumber": "+91 9876543436",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 237,
+      "fullName": "Kabir Garg",
+      "class": 8,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rajesh Garg",
+      "parentPhoneNumber": "+91 9876543437",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 238,
+      "fullName": "Vihaan Chowdhury",
+      "class": 8,
+      "section": "C",
+      "stream": null,
+      "parentName": "Nikhil Chowdhury",
+      "parentPhoneNumber": "+91 9876543438",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 239,
+      "fullName": "Reyansh Beri",
+      "class": 8,
+      "section": "C",
+      "stream": null,
+      "parentName": "Saurabh Beri",
+      "parentPhoneNumber": "+91 9876543439",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 240,
+      "fullName": "Arhaan Lal",
+      "class": 8,
+      "section": "C",
+      "stream": null,
+      "parentName": "Arjun Lal",
+      "parentPhoneNumber": "+91 9876543440",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 241,
+      "fullName": "Aryan Menon",
+      "class": 9,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rohit Menon",
+      "parentPhoneNumber": "+91 9876543441",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 242,
+      "fullName": "Aayush Varma",
+      "class": 9,
+      "section": "A",
+      "stream": null,
+      "parentName": "Sameer Varma",
+      "parentPhoneNumber": "+91 9876543442",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 243,
+      "fullName": "Veer Choudhary",
+      "class": 9,
+      "section": "A",
+      "stream": null,
+      "parentName": "Ankit Choudhary",
+      "parentPhoneNumber": "+91 9876543443",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 244,
+      "fullName": "Vivaan Malhotra",
+      "class": 9,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rahul Malhotra",
+      "parentPhoneNumber": "+91 9876543444",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 245,
+      "fullName": "Shaurya Khanna",
+      "class": 9,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rajiv Khanna",
+      "parentPhoneNumber": "+91 9876543445",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 246,
+      "fullName": "Advait Sharma",
+      "class": 9,
+      "section": "A",
+      "stream": null,
+      "parentName": "Vikas Sharma",
+      "parentPhoneNumber": "+91 9876543446",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 247,
+      "fullName": "Aarav Chauhan",
+      "class": 9,
+      "section": "A",
+      "stream": null,
+      "parentName": "Nitin Chauhan",
+      "parentPhoneNumber": "+91 9876543447",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 248,
+      "fullName": "Dhruv Gupta",
+      "class": 9,
+      "section": "A",
+      "stream": null,
+      "parentName": "Sanjay Gupta",
+      "parentPhoneNumber": "+91 9876543448",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 249,
+      "fullName": "Reyansh Singh",
+      "class": 9,
+      "section": "A",
+      "stream": null,
+      "parentName": "Aakash Singh",
+      "parentPhoneNumber": "+91 9876543449",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 250,
+      "fullName": "Kiaan Nair",
+      "class": 9,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rahul Nair",
+      "parentPhoneNumber": "+91 9876543450",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 251,
+      "fullName": "Anvi Mehta",
+      "class": 9,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rohit Mehta",
+      "parentPhoneNumber": "+91 9876543451",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 252,
+      "fullName": "Zara Kumar",
+      "class": 9,
+      "section": "B",
+      "stream": null,
+      "parentName": "Sameer Kumar",
+      "parentPhoneNumber": "+91 9876543452",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 253,
+      "fullName": "Myra Patel",
+      "class": 9,
+      "section": "B",
+      "stream": null,
+      "parentName": "Vishal Patel",
+      "parentPhoneNumber": "+91 9876543453",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 254,
+      "fullName": "Anika Joshi",
+      "class": 9,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rajesh Joshi",
+      "parentPhoneNumber": "+91 9876543454",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 255,
+      "fullName": "Aanya Shah",
+      "class": 9,
+      "section": "B",
+      "stream": null,
+      "parentName": "Nikhil Shah",
+      "parentPhoneNumber": "+91 9876543455",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 256,
+      "fullName": "Riya Verma",
+      "class": 9,
+      "section": "B",
+      "stream": null,
+      "parentName": "Siddharth Verma",
+      "parentPhoneNumber": "+91 9876543456",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 257,
+      "fullName": "Pihu Mishra",
+      "class": 9,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rajeev Mishra",
+      "parentPhoneNumber": "+91 9876543457",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 258,
+      "fullName": "Aarohi Agarwal",
+      "class": 9,
+      "section": "B",
+      "stream": null,
+      "parentName": "Karan Agarwal",
+      "parentPhoneNumber": "+91 9876543458",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 259,
+      "fullName": "Aditi Reddy",
+      "class": 9,
+      "section": "B",
+      "stream": null,
+      "parentName": "Aakash Reddy",
+      "parentPhoneNumber": "+91 9876543459",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 260,
+      "fullName": "Saanvi Nair",
+      "class": 9,
+      "section": "B",
+      "stream": null,
+      "parentName": "Nitin Nair",
+      "parentPhoneNumber": "+91 9876543460",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 261,
+      "fullName": "Aayansh Rao",
+      "class": 9,
+      "section": "C",
+      "stream": null,
+      "parentName": "Anil Rao",
+      "parentPhoneNumber": "+91 9876543461",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 262,
+      "fullName": "Atharv Mukherjee",
+      "class": 9,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rohit Mukherjee",
+      "parentPhoneNumber": "+91 9876543462",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 263,
+      "fullName": "Kabir Chatterjee",
+      "class": 9,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rajat Chatterjee",
+      "parentPhoneNumber": "+91 9876543463",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 264,
+      "fullName": "Yuvaan Deshpande",
+      "class": 9,
+      "section": "C",
+      "stream": null,
+      "parentName": "Aakash Deshpande",
+      "parentPhoneNumber": "+91 9876543464",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 265,
+      "fullName": "Viaan Kulkarni",
+      "class": 9,
+      "section": "C",
+      "stream": null,
+      "parentName": "Sanjay Kulkarni",
+      "parentPhoneNumber": "+91 9876543465",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 266,
+      "fullName": "Ivaan Tiwari",
+      "class": 9,
+      "section": "C",
+      "stream": null,
+      "parentName": "Nikhil Tiwari",
+      "parentPhoneNumber": "+91 9876543466",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 267,
+      "fullName": "Rudra Chauhan",
+      "class": 9,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rahul Chauhan",
+      "parentPhoneNumber": "+91 9876543467",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 268,
+      "fullName": "Aahil Mehra",
+      "class": 9,
+      "section": "C",
+      "stream": null,
+      "parentName": "Vivek Mehra",
+      "parentPhoneNumber": "+91 9876543468",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 269,
+      "fullName": "Shivansh Sood",
+      "class": 9,
+      "section": "C",
+      "stream": null,
+      "parentName": "Sameer Sood",
+      "parentPhoneNumber": "+91 9876543469",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 270,
+      "fullName": "Shaurya Ahuja",
+      "class": 9,
+      "section": "C",
+      "stream": null,
+      "parentName": "Vikas Ahuja",
+      "parentPhoneNumber": "+91 9876543470",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 271,
+      "fullName": "Aarav Suri",
+      "class": 10,
+      "section": "A",
+      "stream": null,
+      "parentName": "Sanjay Suri",
+      "parentPhoneNumber": "+91 9876543471",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 272,
+      "fullName": "Vihaan Khullar",
+      "class": 10,
+      "section": "A",
+      "stream": null,
+      "parentName": "Nikhil Khullar",
+      "parentPhoneNumber": "+91 9876543472",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 273,
+      "fullName": "Aditya Khanna",
+      "class": 10,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rajeev Khanna",
+      "parentPhoneNumber": "+91 9876543473",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 274,
+      "fullName": "Arjun Bhasin",
+      "class": 10,
+      "section": "A",
+      "stream": null,
+      "parentName": "Aakash Bhasin",
+      "parentPhoneNumber": "+91 9876543474",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 275,
+      "fullName": "Reyansh Arora",
+      "class": 10,
+      "section": "A",
+      "stream": null,
+      "parentName": "Ankit Arora",
+      "parentPhoneNumber": "+91 9876543475",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 276,
+      "fullName": "Ayaan Chopra",
+      "class": 10,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rohan Chopra",
+      "parentPhoneNumber": "+91 9876543476",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 277,
+      "fullName": "Divya Khurana",
+      "class": 10,
+      "section": "A",
+      "stream": null,
+      "parentName": "Nitin Khurana",
+      "parentPhoneNumber": "+91 9876543477",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 278,
+      "fullName": "Neha Mathur",
+      "class": 10,
+      "section": "A",
+      "stream": null,
+      "parentName": "Sanjay Mathur",
+      "parentPhoneNumber": "+91 9876543478",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 279,
+      "fullName": "Ananya Bedi",
+      "class": 10,
+      "section": "A",
+      "stream": null,
+      "parentName": "Aakash Bedi",
+      "parentPhoneNumber": "+91 9876543479",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 280,
+      "fullName": "Diya Khurana",
+      "class": 10,
+      "section": "A",
+      "stream": null,
+      "parentName": "Rohit Khurana",
+      "parentPhoneNumber": "+91 9876543480",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 281,
+      "fullName": "Advait Kapoor",
+      "class": 10,
+      "section": "B",
+      "stream": null,
+      "parentName": "Ajay Kapoor",
+      "parentPhoneNumber": "+91 9876543481",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 282,
+      "fullName": "Kiaan Bansal",
+      "class": 10,
+      "section": "B",
+      "stream": null,
+      "parentName": "Vivek Bansal",
+      "parentPhoneNumber": "+91 9876543482",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 283,
+      "fullName": "Shaurya Dhawan",
+      "class": 10,
+      "section": "B",
+      "stream": null,
+      "parentName": "Nikhil Dhawan",
+      "parentPhoneNumber": "+91 9876543483",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 284,
+      "fullName": "Ayush Kaul",
+      "class": 10,
+      "section": "B",
+      "stream": null,
+      "parentName": "Aakash Kaul",
+      "parentPhoneNumber": "+91 9876543484",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 285,
+      "fullName": "Aryan Khatri",
+      "class": 10,
+      "section": "B",
+      "stream": null,
+      "parentName": "Sameer Khatri",
+      "parentPhoneNumber": "+91 9876543485",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 286,
+      "fullName": "Aniket Chawla",
+      "class": 10,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rajesh Chawla",
+      "parentPhoneNumber": "+91 9876543486",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 287,
+      "fullName": "Krish Gupta",
+      "class": 10,
+      "section": "B",
+      "stream": null,
+      "parentName": "Nitin Gupta",
+      "parentPhoneNumber": "+91 9876543487",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 288,
+      "fullName": "Aaditya Thakur",
+      "class": 10,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rajeev Thakur",
+      "parentPhoneNumber": "+91 9876543488",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 289,
+      "fullName": "Vivan Malik",
+      "class": 10,
+      "section": "B",
+      "stream": null,
+      "parentName": "Rohit Malik",
+      "parentPhoneNumber": "+91 9876543489",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 290,
+      "fullName": "Sarthak Basu",
+      "class": 10,
+      "section": "B",
+      "stream": null,
+      "parentName": "Ankit Basu",
+      "parentPhoneNumber": "+91 9876543490",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 291,
+      "fullName": "Tanvi Goel",
+      "class": 10,
+      "section": "C",
+      "stream": null,
+      "parentName": "Sanjay Goel",
+      "parentPhoneNumber": "+91 9876543491",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 292,
+      "fullName": "Aisha Ahuja",
+      "class": 10,
+      "section": "C",
+      "stream": null,
+      "parentName": "Nikhil Ahuja",
+      "parentPhoneNumber": "+91 9876543492",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 293,
+      "fullName": "Myra Bhatia",
+      "class": 10,
+      "section": "C",
+      "stream": null,
+      "parentName": "Aakash Bhatia",
+      "parentPhoneNumber": "+91 9876543493",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 294,
+      "fullName": "Siya Dutt",
+      "class": 10,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rajeev Dutt",
+      "parentPhoneNumber": "+91 9876543494",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 295,
+      "fullName": "Prisha Bakshi",
+      "class": 10,
+      "section": "C",
+      "stream": null,
+      "parentName": "Ankit Bakshi",
+      "parentPhoneNumber": "+91 9876543495",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 296,
+      "fullName": "Pari Suri",
+      "class": 10,
+      "section": "C",
+      "stream": null,
+      "parentName": "Sameer Suri",
+      "parentPhoneNumber": "+91 9876543496",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 297,
+      "fullName": "Zara Kohli",
+      "class": 10,
+      "section": "C",
+      "stream": null,
+      "parentName": "Nitin Kohli",
+      "parentPhoneNumber": "+91 9876543497",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 298,
+      "fullName": "Shanaya Sethi",
+      "class": 10,
+      "section": "C",
+      "stream": null,
+      "parentName": "Rajesh Sethi",
+      "parentPhoneNumber": "+91 9876543498",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 299,
+      "fullName": "Ira Pillai",
+      "class": 10,
+      "section": "C",
+      "stream": null,
+      "parentName": "Vikram Pillai",
+      "parentPhoneNumber": "+91 9876543499",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 300,
+      "fullName": "Anushka Chhabra",
+      "class": 10,
+      "section": "C",
+      "stream": null,
+      "parentName": "Aakash Chhabra",
+      "parentPhoneNumber": "+91 9876543500",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 301,
+      "fullName": "Rohan Sharma",
+      "class": 11,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Rajiv Sharma",
+      "parentPhoneNumber": "+91 9876543501",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 302,
+      "fullName": "Aryan Patel",
+      "class": 11,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Sunil Patel",
+      "parentPhoneNumber": "+91 9876543502",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 303,
+      "fullName": "Vikram Singh",
+      "class": 11,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Rajesh Singh",
+      "parentPhoneNumber": "+91 9876543503",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 304,
+      "fullName": "Aman Kumar",
+      "class": 11,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Manoj Kumar",
+      "parentPhoneNumber": "+91 9876543504",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 305,
+      "fullName": "Krish Gupta",
+      "class": 11,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Deepak Gupta",
+      "parentPhoneNumber": "+91 9876543505",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 306,
+      "fullName": "Karan Mehta",
+      "class": 11,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Sameer Mehta",
+      "parentPhoneNumber": "+91 9876543506",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 307,
+      "fullName": "Rahul Joshi",
+      "class": 11,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Vinod Joshi",
+      "parentPhoneNumber": "+91 9876543507",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 308,
+      "fullName": "Ishika Shah",
+      "class": 11,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Anil Shah",
+      "parentPhoneNumber": "+91 9876543508",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 309,
+      "fullName": "Ritu Verma",
+      "class": 11,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Avinash Verma",
+      "parentPhoneNumber": "+91 9876543509",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 310,
+      "fullName": "Sneha Mishra",
+      "class": 11,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Sushil Mishra",
+      "parentPhoneNumber": "+91 9876543510",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 311,
+      "fullName": "Anjali Agarwal",
+      "class": 11,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Anup Agarwal",
+      "parentPhoneNumber": "+91 9876543511",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 312,
+      "fullName": "Neha Reddy",
+      "class": 11,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Kailash Reddy",
+      "parentPhoneNumber": "+91 9876543512",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 313,
+      "fullName": "Shivam Nair",
+      "class": 11,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Satish Nair",
+      "parentPhoneNumber": "+91 9876543513",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 314,
+      "fullName": "Kunal Rao",
+      "class": 11,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Naveen Rao",
+      "parentPhoneNumber": "+91 9876543514",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 315,
+      "fullName": "Dev Mukherjee",
+      "class": 11,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Kamal Mukherjee",
+      "parentPhoneNumber": "+91 9876543515",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 316,
+      "fullName": "Anand Chatterjee",
+      "class": 11,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Prakash Chatterjee",
+      "parentPhoneNumber": "+91 9876543516",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 317,
+      "fullName": "Pooja Deshpande",
+      "class": 11,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Neeraj Deshpande",
+      "parentPhoneNumber": "+91 9876543517",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 318,
+      "fullName": "Tanya Kulkarni",
+      "class": 11,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Manish Kulkarni",
+      "parentPhoneNumber": "+91 9876543518",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 319,
+      "fullName": "Mansi Tiwari",
+      "class": 11,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Girish Tiwari",
+      "parentPhoneNumber": "+91 9876543519",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 320,
+      "fullName": "Arti Chauhan",
+      "class": 11,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Saurabh Chauhan",
+      "parentPhoneNumber": "+91 9876543520",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 321,
+      "fullName": "Ankit Sharma",
+      "class": 11,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Rakesh Sharma",
+      "parentPhoneNumber": "+91 9876543521",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 322,
+      "fullName": "Gaurav Patel",
+      "class": 11,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Sanjeev Patel",
+      "parentPhoneNumber": "+91 9876543522",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 323,
+      "fullName": "Akshay Singh",
+      "class": 11,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Rajan Singh",
+      "parentPhoneNumber": "+91 9876543523",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 324,
+      "fullName": "Nikhil Kumar",
+      "class": 11,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Mohan Kumar",
+      "parentPhoneNumber": "+91 9876543524",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 325,
+      "fullName": "Varun Gupta",
+      "class": 11,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Dhiraj Gupta",
+      "parentPhoneNumber": "+91 9876543525",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 326,
+      "fullName": "Arjun Mehta",
+      "class": 11,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Sanjiv Mehta",
+      "parentPhoneNumber": "+91 9876543526",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 327,
+      "fullName": "Alok Joshi",
+      "class": 11,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Vivek Joshi",
+      "parentPhoneNumber": "+91 9876543527",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 328,
+      "fullName": "Shweta Shah",
+      "class": 11,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Ajeet Shah",
+      "parentPhoneNumber": "+91 9876543528",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 329,
+      "fullName": "Meera Verma",
+      "class": 11,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Anant Verma",
+      "parentPhoneNumber": "+91 9876543529",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 330,
+      "fullName": "Deepika Mishra",
+      "class": 11,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Sudhir Mishra",
+      "parentPhoneNumber": "+91 9876543530",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 331,
+      "fullName": "Rajat Sharma",
+      "class": 12,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Alok Sharma",
+      "parentPhoneNumber": "+91 9876543531",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 332,
+      "fullName": "Sahil Patel",
+      "class": 12,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Anuj Patel",
+      "parentPhoneNumber": "+91 9876543532",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 333,
+      "fullName": "Rohit Singh",
+      "class": 12,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Nikhil Singh",
+      "parentPhoneNumber": "+91 9876543533",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 334,
+      "fullName": "Kunal Kumar",
+      "class": 12,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Amit Kumar",
+      "parentPhoneNumber": "+91 9876543534",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 335,
+      "fullName": "Aditya Gupta",
+      "class": 12,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Vikas Gupta",
+      "parentPhoneNumber": "+91 9876543535",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 336,
+      "fullName": "Vivek Mehta",
+      "class": 12,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Rahul Mehta",
+      "parentPhoneNumber": "+91 9876543536",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 337,
+      "fullName": "Siddharth Joshi",
+      "class": 12,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Aakash Joshi",
+      "parentPhoneNumber": "+91 9876543537",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 338,
+      "fullName": "Priya Shah",
+      "class": 12,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Rajesh Shah",
+      "parentPhoneNumber": "+91 9876543538",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 339,
+      "fullName": "Neha Verma",
+      "class": 12,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Suresh Verma",
+      "parentPhoneNumber": "+91 9876543539",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 340,
+      "fullName": "Sonia Mishra",
+      "class": 12,
+      "section": null,
+      "stream": "Commerce",
+      "parentName": "Nitin Mishra",
+      "parentPhoneNumber": "+91 9876543540",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 341,
+      "fullName": "Mohit Agarwal",
+      "class": 12,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Rajiv Agarwal",
+      "parentPhoneNumber": "+91 9876543541",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 342,
+      "fullName": "Kavita Reddy",
+      "class": 12,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Anil Reddy",
+      "parentPhoneNumber": "+91 9876543542",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 343,
+      "fullName": "Arjun Nair",
+      "class": 12,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Rajeev Nair",
+      "parentPhoneNumber": "+91 9876543543",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 344,
+      "fullName": "Aditya Rao",
+      "class": 12,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Sanjay Rao",
+      "parentPhoneNumber": "+91 9876543544",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 345,
+      "fullName": "Rishi Mukherjee",
+      "class": 12,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Sameer Mukherjee",
+      "parentPhoneNumber": "+91 9876543545",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 346,
+      "fullName": "Priyanka Chatterjee",
+      "class": 12,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Nikhil Chatterjee",
+      "parentPhoneNumber": "+91 9876543546",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 347,
+      "fullName": "Shreya Deshpande",
+      "class": 12,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Rohit Deshpande",
+      "parentPhoneNumber": "+91 9876543547",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 348,
+      "fullName": "Shikha Kulkarni",
+      "class": 12,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Vikas Kulkarni",
+      "parentPhoneNumber": "+91 9876543548",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 349,
+      "fullName": "Amit Tiwari",
+      "class": 12,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Sanjay Tiwari",
+      "parentPhoneNumber": "+91 9876543549",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 350,
+      "fullName": "Siddhi Chauhan",
+      "class": 12,
+      "section": null,
+      "stream": "Arts",
+      "parentName": "Rajat Chauhan",
+      "parentPhoneNumber": "+91 9876543550",
+      "address": "27 Rajpur Road, Dehradun"
+    },
+    {
+      "id": 351,
+      "fullName": "Vikas Sharma",
+      "class": 12,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Anand Sharma",
+      "parentPhoneNumber": "+91 9876543551",
+      "address": "42 Nehru Street, Delhi"
+    },
+    {
+      "id": 352,
+      "fullName": "Nisha Patel",
+      "class": 12,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Rajiv Patel",
+      "parentPhoneNumber": "+91 9876543552",
+      "address": "15 Gandhi Road, Mumbai"
+    },
+    {
+      "id": 353,
+      "fullName": "Tanmay Singh",
+      "class": 12,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Siddharth Singh",
+      "parentPhoneNumber": "+91 9876543553",
+      "address": "7 Tagore Lane, Kolkata"
+    },
+    {
+      "id": 354,
+      "fullName": "Ritika Kumar",
+      "class": 12,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Vivek Kumar",
+      "parentPhoneNumber": "+91 9876543554",
+      "address": "23 Patel Nagar, Ahmedabad"
+    },
+    {
+      "id": 355,
+      "fullName": "Karan Gupta",
+      "class": 12,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Ankit Gupta",
+      "parentPhoneNumber": "+91 9876543555",
+      "address": "9 MG Road, Bangalore"
+    },
+    {
+      "id": 356,
+      "fullName": "Sakshi Mehta",
+      "class": 12,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Rajeev Mehta",
+      "parentPhoneNumber": "+91 9876543556",
+      "address": "56 Tilak Marg, Pune"
+    },
+    {
+      "id": 357,
+      "fullName": "Rohan Joshi",
+      "class": 12,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Nikhil Joshi",
+      "parentPhoneNumber": "+91 9876543557",
+      "address": "11 Subhash Colony, Jaipur"
+    },
+    {
+      "id": 358,
+      "fullName": "Ankita Shah",
+      "class": 12,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Sameer Shah",
+      "parentPhoneNumber": "+91 9876543558",
+      "address": "34 Azad Nagar, Chennai"
+    },
+    {
+      "id": 359,
+      "fullName": "Vaibhav Verma",
+      "class": 12,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Rajesh Verma",
+      "parentPhoneNumber": "+91 9876543559",
+      "address": "18 Civil Lines, Lucknow"
+    },
+    {
+      "id": 360,
+      "fullName": "Sonali Mishra",
+      "class": 12,
+      "section": null,
+      "stream": "Science",
+      "parentName": "Aakash Mishra",
+      "parentPhoneNumber": "+91 9876543560",
+      "address": "27 Rajpur Road, Dehradun"
+    }
+  ]
+} 

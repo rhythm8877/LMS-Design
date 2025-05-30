@@ -564,13 +564,6 @@
 }
 
 /* Template selection styles */
-.template-selection {
-  margin-top: 24px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
 .template-button {
   background-color: #6c5ce7;
   color: white;
@@ -582,6 +575,7 @@
   cursor: pointer;
   transition: background-color 0.2s;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-top: 24px;
 }
 
 .template-button:hover {

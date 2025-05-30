@@ -616,47 +616,18 @@ class IDCardGenerator extends Component {
         </div>
         
         {hasSearched && (
-          <div className="table-container">
-            <table className="students-table">
-              <thead>
-                <tr>
-                  <th>
-                    <div 
-                      className={`student-checkbox ${allSelected ? 'checked' : ''}`}
-                      onClick={this.toggleSelectAll}
-                    >
-                      <span className="checkbox-icon">
-                        {allSelected ? (
-                          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <circle cx="12" cy="12" r="10" fill="#6c5ce7" />
-                            <path d="M8 12L10.5 14.5L16 9" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-                          </svg>
-                        ) : (
-                          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <circle cx="12" cy="12" r="9.5" stroke="#6c5ce7" strokeWidth="1"/>
-                          </svg>
-                        )}
-                      </span>
-                      <span className="row-number">Sl No.</span>
-                    </div>
-                  </th>
-                  <th>Photo</th>
-                  <th>Full Name</th>
-                  <th>Parents Name</th>
-                  <th>Parent's Phone No.</th>
-                  <th>Address</th>
-                </tr>
-              </thead>
-              <tbody>
-                {displayedStudents.map((student, index) => (
-                  <tr key={student.id}>
-                    <td>
+          <>
+            <div className="table-container">
+              <table className="students-table">
+                <thead>
+                  <tr>
+                    <th>
                       <div 
-                        className={`student-checkbox ${selectedStudents[student.id] ? 'checked' : ''}`}
-                        onClick={() => this.toggleStudentSelection(student.id)}
+                        className={`student-checkbox ${allSelected ? 'checked' : ''}`}
+                        onClick={this.toggleSelectAll}
                       >
                         <span className="checkbox-icon">
-                          {selectedStudents[student.id] ? (
+                          {allSelected ? (
                             <svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                               <circle cx="12" cy="12" r="10" fill="#6c5ce7" />
                               <path d="M8 12L10.5 14.5L16 9" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
@@ -667,31 +638,62 @@ class IDCardGenerator extends Component {
                             </svg>
                           )}
                         </span>
-                        <span className="row-number">{index + 1}</span>
+                        <span className="row-number">Sl No.</span>
                       </div>
-                    </td>
-                    <td>
-                      <PhotoUpload 
-                        photo={student.photo}
-                        studentId={student.id}
-                        onPhotoChange={this.handlePhotoChange}
-                      />
-                    </td>
-                    <td>{student.fullName}</td>
-                    <td>{student.parentName}</td>
-                    <td>{student.parentPhoneNumber}</td>
-                    <td>{student.address}</td>
+                    </th>
+                    <th>Photo</th>
+                    <th>Full Name</th>
+                    <th>Parents Name</th>
+                    <th>Parent's Phone No.</th>
+                    <th>Address</th>
                   </tr>
-                ))}
-                {displayedStudents.length === 0 && (
-                  <tr>
-                    <td colSpan="6" className="no-results">No students found with the selected criteria</td>
-                  </tr>
-                )}
-              </tbody>
-            </table>
+                </thead>
+                <tbody>
+                  {displayedStudents.map((student, index) => (
+                    <tr key={student.id}>
+                      <td>
+                        <div 
+                          className={`student-checkbox ${selectedStudents[student.id] ? 'checked' : ''}`}
+                          onClick={() => this.toggleStudentSelection(student.id)}
+                        >
+                          <span className="checkbox-icon">
+                            {selectedStudents[student.id] ? (
+                              <svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="12" cy="12" r="10" fill="#6c5ce7" />
+                                <path d="M8 12L10.5 14.5L16 9" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                              </svg>
+                            ) : (
+                              <svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="12" cy="12" r="9.5" stroke="#6c5ce7" strokeWidth="1"/>
+                              </svg>
+                            )}
+                          </span>
+                          <span className="row-number">{index + 1}</span>
+                        </div>
+                      </td>
+                      <td>
+                        <PhotoUpload 
+                          photo={student.photo}
+                          studentId={student.id}
+                          onPhotoChange={this.handlePhotoChange}
+                        />
+                      </td>
+                      <td>{student.fullName}</td>
+                      <td>{student.parentName}</td>
+                      <td>{student.parentPhoneNumber}</td>
+                      <td>{student.address}</td>
+                    </tr>
+                  ))}
+                  {displayedStudents.length === 0 && (
+                    <tr>
+                      <td colSpan="6" className="no-results">No students found with the selected criteria</td>
+                    </tr>
+                  )}
+                </tbody>
+              </table>
+            </div>
             
-            <div className="template-selection">
+            
               <button 
                 className="template-button" 
                 onClick={this.handleChooseTemplate}
@@ -699,8 +701,8 @@ class IDCardGenerator extends Component {
                 Choose ID Card Template
               </button>
               {errorMessage && <div className="error-message">{errorMessage}</div>}
-            </div>
-          </div>
+            
+          </>
         )}
         
         {/* Template Selection Modal */}

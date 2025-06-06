@@ -9,7 +9,9 @@ class IDCardBatchGenerator extends Component {
       generatingCards: false,
       generatedCount: 0,
       totalCount: 0,
-      error: null
+      error: null,
+      currentBatch: 0,
+      batchSize: 10 // Generate more cards at a time - increased limit
     };
   }
 
@@ -23,9 +25,14 @@ class IDCardBatchGenerator extends Component {
   }
 
   handleGenerationComplete = (studentId) => {
+    console.log(`PDF generated for student: ${studentId}`);
+    
     this.setState(prevState => ({
       generatedCount: prevState.generatedCount + 1
-    }), this.checkCompletion);
+    }), () => {
+      this.checkCompletion();
+      this.processNextBatch();
+    });
   };
 
   checkCompletion = () => {
@@ -33,12 +40,36 @@ class IDCardBatchGenerator extends Component {
     
     // If all cards have been generated, notify parent component
     if (generatedCount >= totalCount) {
+      console.log(`All ${totalCount} ID cards generated successfully!`);
       setTimeout(() => {
-        this.setState({ generatingCards: false });
+        this.setState({ 
+          generatingCards: false,
+          currentBatch: 0,
+          generatedCount: 0 
+        });
         if (this.props.onComplete) {
           this.props.onComplete();
         }
-      }, 1000);
+      }, 2000); // Give time for final PDFs to download
+    }
+  };
+
+  processNextBatch = () => {
+    const { currentBatch, batchSize, generatedCount } = this.state;
+    const { students } = this.props;
+    
+    // Check if we need to start the next batch
+    const currentBatchEnd = (currentBatch + 1) * batchSize;
+    const nextBatchStart = currentBatchEnd;
+    
+    if (nextBatchStart < students.length && generatedCount >= currentBatchEnd) {
+      // Reduced delay for faster processing
+      setTimeout(() => {
+        this.setState(prevState => ({
+          currentBatch: prevState.currentBatch + 1
+        }));
+        console.log(`Starting batch ${currentBatch + 2} - processing students ${nextBatchStart + 1} to ${Math.min(nextBatchStart + batchSize, students.length)}`);
+      }, 800); // Reduced delay for faster processing
     }
   };
 
@@ -49,22 +80,59 @@ class IDCardBatchGenerator extends Component {
       this.setState({ error: 'No students or template provided' });
       return;
     }
+
+    // COMPLETE CLEANUP - Clear ALL tracking to allow unlimited re-downloads
+    if (typeof window !== 'undefined') {
+      try {
+        // Clear ALL session storage
+        sessionStorage.clear();
+        
+        // Clear any window-based tracking
+        window.resetIDCardTrackers = true;
+        
+        // Clear any existing timeouts
+        for (let i = 1; i < 99999; i++) window.clearTimeout(i);
+        
+        console.log('COMPLETE CLEANUP: All tracking cleared - unlimited re-downloads enabled');
+      } catch {
+        console.log('Cleanup attempted');
+      }
+    }
     
+    // Reset all state for fresh generation
     this.setState({
       generatingCards: true,
       generatedCount: 0,
       totalCount: students.length,
+      currentBatch: 0,
       error: null
     });
+
+    console.log(`Starting generation of ${students.length} ID cards in batches of ${this.state.batchSize} - NO RESTRICTIONS`);
+  };
+
+  // Get students for current batch
+  getCurrentBatchStudents = () => {
+    const { students } = this.props;
+    const { currentBatch, batchSize } = this.state;
+    
+    const startIndex = currentBatch * batchSize;
+    const endIndex = Math.min(startIndex + batchSize, students.length);
+    
+    return students.slice(startIndex, endIndex);
   };
 
   render() {
     const { students, template } = this.props;
-    const { generatingCards, generatedCount, totalCount, error } = this.state;
+    const { generatingCards, generatedCount, totalCount, error, currentBatch, batchSize } = this.state;
 
     if (error) {
       return <div className="error-message">{error}</div>;
     }
+
+    const currentBatchStudents = generatingCards ? this.getCurrentBatchStudents() : [];
+    const currentBatchNumber = currentBatch + 1;
+    const totalBatches = Math.ceil(totalCount / batchSize);
 
     return (
       <div className="id-card-generator-container">
@@ -79,6 +147,8 @@ class IDCardBatchGenerator extends Component {
             </button>
             <p className="generation-info">
               Click the button above to generate ID cards for {students?.length || 0} selected student{students?.length !== 1 ? 's' : ''}.
+              <br />
+              <small>Cards will be generated in batches of {batchSize} to ensure optimal performance.</small>
             </p>
           </div>
         ) : (
@@ -90,22 +160,29 @@ class IDCardBatchGenerator extends Component {
               ></div>
             </div>
             <div className="progress-text">
-              Generating ID Card {generatedCount} of {totalCount}...
+              Generating ID Cards: {generatedCount} of {totalCount} completed
+              <br />
+              <small>Processing Batch {currentBatchNumber} of {totalBatches}</small>
             </div>
           </div>
         )}
 
-        {/* Render the ID cards (hidden from view) */}
-        <div className="id-cards-container" style={{ position: 'absolute', left: '-9999px' }}>
-          {generatingCards && students && students.map(student => (
-            <IDCardRenderer 
-              key={student.id}
-              student={student}
-              template={template}
-              onGenerate={this.handleGenerationComplete}
-            />
-          ))}
-        </div>
+        {/* Render the ID cards for current batch (hidden but properly positioned) */}
+        {generatingCards && currentBatchStudents.length > 0 && (
+          <div className="id-cards-batch-container">
+            {currentBatchStudents.map((student, index) => (
+              <IDCardRenderer 
+                key={`${student.id}-${currentBatch}`}
+                student={student}
+                template={template}
+                onGenerate={this.handleGenerationComplete}
+                style={{
+                  animationDelay: `${index * 200}ms` // Reduced stagger for faster processing
+                }}
+              />
+            ))}
+          </div>
+        )}
       </div>
     );
   }

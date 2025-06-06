@@ -14,10 +14,10 @@
 .template-modal {
   background-color: #fff;
   border-radius: 12px;
-  width: 90%;
-  max-width: 900px;
+  width: 95%;
+  max-width: 1200px;
   max-height: 90vh;
-  overflow: hidden;
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
@@ -158,12 +158,20 @@
 }
 
 .template-modal-footer {
-  padding: 15px 20px;
-  border-top: 1px solid #e2e8f0;
   display: flex;
-  justify-content: flex-end;
-  gap: 15px;
-  background-color: #f8f9fd;
+  justify-content: space-between;
+  padding: 16px 24px;
+  border-top: 1px solid #e0e0e0;
+  margin-top: 20px;
+}
+
+.footer-left, .footer-right {
+  display: flex;
+  align-items: center;
+}
+
+.footer-right {
+  gap: 12px;
 }
 
 .cancel-button, .generate-button {

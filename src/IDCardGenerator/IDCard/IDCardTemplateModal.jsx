@@ -218,7 +218,7 @@ class IDCardTemplateModal extends Component {
       completedCount, 
       totalCount, 
       errorMessage, 
-      showProgressOverlay 
+      showProgressOverlay
     } = this.state;
 
     if (!isOpen) return null;
@@ -271,19 +271,24 @@ class IDCardTemplateModal extends Component {
           )}
           
           <div className="template-modal-footer">
-            <button 
-              className="cancel-button" 
-              onClick={onClose}
-            >
-              Cancel
-            </button>
-            <button 
-              className="generate-button" 
-              onClick={this.handleGenerate}
-              disabled={!selectedTemplate || generatingCards}
-            >
-              Generate ID Card
-            </button>
+            <div className="footer-left">
+              {/* Test mode button removed */}
+            </div>
+            <div className="footer-right">
+              <button 
+                className="cancel-button" 
+                onClick={onClose}
+              >
+                Cancel
+              </button>
+              <button 
+                className="generate-button" 
+                onClick={this.handleGenerate}
+                disabled={!selectedTemplate || generatingCards}
+              >
+                Generate ID Card
+              </button>
+            </div>
           </div>
 
           {/* Progress overlay */}
